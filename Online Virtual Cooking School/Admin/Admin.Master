@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="OnlineVirtualCookingSchool.Admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+   <webopt:bundlereference runat="server" path="../Content/css" />
+    <link href="../favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+</head>
+<body>
+   <form id="form1" runat="server">
+
+          <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">OVCS</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="AdminHome.aspx">Admin Home</a></li>
+                        <li><a runat="server" href="StaffMan.aspx">Add Staff User</a></li>
+                        <li><a runat="server" href="CourseMan.aspx">Add Course</a></li>
+                        <li><a runat="server" href="../Default.aspx">Logout</a></li>
+                   </ul>
+                </div>
+            </div>
+        </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+       <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - Online Vacation Cooking School</p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

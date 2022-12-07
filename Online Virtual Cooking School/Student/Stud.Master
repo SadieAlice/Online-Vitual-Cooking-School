@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Stud.master.cs" Inherits="OnlineVirtualCookingSchool.Student.Stud" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="../css/Styles.css"/>
+    <script type="text/javascript" src="../js/js.js" ></script>
+</head>
+<body>
+    <form id="form1" runat="server"> 
+    <span style="font-size: 30px;cursor:pointer" onclick="openNavmenu()">&#9776; Menu</span>
+        <div class="sidenavmenu" id="mySidenavmenu">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                <a href="StdHome.aspx">My Modules</a>
+                <a href="Announcements.aspx">Announcements</a>
+                <a href="MyClassSchedule.aspx">Class Schedule</a>
+                <a href="MyFinances.aspx">My Finances</a>
+                <a href="Profile.aspx">My Profile</a>
+                <a href="../Default.aspx">Logout</a>
+        </div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+    </form>
+</body>
+</html>

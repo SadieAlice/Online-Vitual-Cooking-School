@@ -1,0 +1,344 @@
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll.config
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.pdb
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe.config
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.rsp
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe.config
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.rsp
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.AppContext.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Console.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Http.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe.config
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.rsp
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\WebGrease.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.pdb
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csprojAssemblyReference.cache
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CopyComplete
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.dll
+C:\Users\Tshego\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.pdb
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll.config
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.pdb
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe.config
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.rsp
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe.config
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.rsp
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.AppContext.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Console.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Http.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe.config
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.rsp
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\WebGrease.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.pdb
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csprojAssemblyReference.cache
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CoreCompileInputs.cache
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CopyComplete
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.dll
+C:\Users\tucxd\source\repos\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.pdb
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll.config
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.pdb
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe.config
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.rsp
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe.config
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.rsp
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.AppContext.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Console.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Http.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe.config
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.rsp
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\WebGrease.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.pdb
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csprojAssemblyReference.cache
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CopyComplete
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.dll
+C:\Users\Lat34\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.pdb
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll.config
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\OnlineVirtualCookingSchool.pdb
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.exe.config
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csc.rsp
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.exe.config
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\csi.rsp
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.AppContext.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Console.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Http.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.exe.config
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\vbc.rsp
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\WebGrease.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Optimization.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Newtonsoft.Json.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Antlr3.Runtime.pdb
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Razor.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Helpers.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\System.Web.Mvc.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.AssemblyReference.cache
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.csproj.CopyComplete
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.dll
+C:\Users\Sadie Alice\source\repos\OnlineVirtualCookingSchool\obj\Debug\OnlineVirtualCookingSchool.pdb
